@@ -2,9 +2,11 @@
 
 ## Server
 
-  cd server
-  npm install
-  npm start
+```
+      cd server
+      npm install
+      npm start
+```
 
   ### Add .env
 
@@ -12,7 +14,8 @@
 
 ## Client
 
-  cd client
-  npm install
-  npm run serve
-
+```
+      cd client
+      npm install
+      npm run serve
+```
